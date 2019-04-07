@@ -38,6 +38,9 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      categories: updates
+      author: BootlegPotato
+      permalink: /:categories/:year-:month-:day-:title
 
 
 # Exclude from processing.
