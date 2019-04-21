@@ -1,0 +1,16 @@
+---
+# Front page & Blog
+layout: default
+---
+{%- if site.posts.size > 0 -%}
+
+  {%- for post in site.posts -%}
+
+    
+    <h2 class="post-title"><a class="post-link" href='{{ post.url | relative_url }}'>{{ post.title | escape }}</a></h2>
+    <div class="post-date">{{ post.date | date: '%B %d, %Y' }}</div>
+    {{ post.content }}
+    
+  {%- endfor -%}      
+  
+{%- endif -%}
