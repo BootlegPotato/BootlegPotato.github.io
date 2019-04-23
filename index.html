@@ -1,16 +1,21 @@
 ---
 # Front page & Blog
 layout: default
+pagination:
+  enabled: true
 ---
-{%- if site.posts.size > 0 -%}
-
-  {%- for post in site.posts -%}
-
-    
+{% for post in paginator.posts %}
     <h2 class="post-title"><a class="post-link" href='{{ post.url | relative_url }}'>{{ post.title | escape }}</a></h2>
     <div class="post-date">{{ post.date | date: '%B %d, %Y' }}</div>
     {{ post.content }}
-    
-  {%- endfor -%}      
-  
-{%- endif -%}
+    <div class="post-line"></div>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+    {% if paginator.previous_page %}
+        <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+    {% endif %}
+    {% if paginator.next_page %}
+        <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+    {% endif %}
+{% endif %}
