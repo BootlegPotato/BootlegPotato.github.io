@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-04-23T08:45:52-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BootlegPotato</title><entry><title type="html">April 22 Update</title><link href="http://localhost:4000/blog/2019/04/April-23rd-update.html" rel="alternate" type="text/html" title="April 22 Update" /><published>2019-04-22T00:00:00-05:00</published><updated>2019-04-22T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/04/April-23rd-update</id><content type="html" xml:base="http://localhost:4000/blog/2019/04/April-23rd-update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;BootlegPotato.GitHub.io Page (This page)
+    &lt;ul&gt;
+      &lt;li&gt;It doesn’t work in GitHub Page. I read the warning and wanted to see for my self.&lt;/li&gt;
+      &lt;li&gt;Updated the blog pages to live in a blog directory.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;New Issue&lt;/strong&gt;: The static output pages are not grabbing site styles.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update BootlegPotato.GitHub.io Page (This page) It doesn’t work in GitHub Page. I read the warning and wanted to see for my self. Updated the blog pages to live in a blog directory. New Issue: The static output pages are not grabbing site styles.</summary></entry><entry><title type="html">April 22 Update</title><link href="http://localhost:4000/blog/2019/04/April-22nd-update.html" rel="alternate" type="text/html" title="April 22 Update" /><published>2019-04-22T00:00:00-05:00</published><updated>2019-04-22T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/04/April-22nd-update</id><content type="html" xml:base="http://localhost:4000/blog/2019/04/April-22nd-update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;BootlegPotato.GitHub.io Page (This page)
+    &lt;ul&gt;
+      &lt;li&gt;Implemented jekyll-paginate-v2 and I have no idea if it works on GitHub Pages.&lt;/li&gt;
+      &lt;li&gt;Will need to figure out how to do multiple category blogs for future projects.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Untitled Mini Game Collection
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.gbstudio.dev/&quot;&gt;GB Studio&lt;/a&gt; looks interesting.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update BootlegPotato.GitHub.io Page (This page) Implemented jekyll-paginate-v2 and I have no idea if it works on GitHub Pages. Will need to figure out how to do multiple category blogs for future projects. Untitled Mini Game Collection GB Studio looks interesting.</summary></entry><entry><title type="html">Its Alive!</title><link href="http://localhost:4000/blog/2019/04/its-alive.html" rel="alternate" type="text/html" title="Its Alive!" /><published>2019-04-07T00:00:00-05:00</published><updated>2019-04-07T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/04/its-alive</id><content type="html" xml:base="http://localhost:4000/blog/2019/04/its-alive.html">&lt;h3 id=&quot;current-projects&quot;&gt;Current projects&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Working on turning this GitHub Pages design into a Jekyll theme.
+    &lt;ul&gt;
+      &lt;li&gt;Still need to work out the pagination.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Cleaning up a repo of various mini game projects for public release.&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Current projects Working on turning this GitHub Pages design into a Jekyll theme. Still need to work out the pagination. Cleaning up a repo of various mini game projects for public release.</summary></entry></feed>
