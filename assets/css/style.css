@@ -14,27 +14,28 @@ body {
     font-family: 'courier new', sans-serif;
 }
 
-a {
-    color: #8bac0f;
-}
-
-a:hover {
-    color: #caf416;
-}
-
 h1, h2, h3, h4, h5, h6 {
     font-family: bitwise, 'courier new', sans-serif;
     color: #8bac0f; 
 }
+
+a h1 { text-decoration: underline; }
 
 a h1:hover {
     color: #caf416;
     text-decoration: underline;
 }
 
-h3 {
-    font-size: 1.25rem;
+h3 { font-size: 1.25rem; }
+
+a {
+    color: #8bac0f;
+    text-decoration: underline;
 }
+a:hover { color: #caf416; }
+
+strong { color: #8bac0f }
+
 
 #title {
     position: relative;
@@ -42,6 +43,7 @@ h3 {
     font-size: 40px;
 }
 
+/* -------------------  Blinking Page Title -------------- */
 /* Blinking Cursor by Alan Dunning on Codepen https://codepen.io/alandunning/pen/RWRrEW */
 #title::after {
     content: "";
@@ -66,17 +68,25 @@ h3 {
     animation: blink 1s step-end infinite;
   }
   
-  @-webkit-keyframes blink {
-    0% { opacity: 1.0; }
-    50% { opacity: 0.0; }
-    100% { opacity: 1.0; }
-  }
   
-  @keyframes blink {
+@-webkit-keyframes blink {
     0% { opacity: 1.0; }
     50% { opacity: 0.0; }
     100% { opacity: 1.0; }
-  }
+}
+  
+@keyframes blink {
+    0% { opacity: 1.0; }
+    50% { opacity: 0.0; }
+    100% { opacity: 1.0; }
+}
+
+#header-line {
+    border-top-style: dashed;
+    border-color: #306230;
+    border-width: 1px;
+    margin-bottom: 50px;
+}
 
 /* -------------------  Responsive Nav -------------- */
 .topnav {
@@ -131,14 +141,7 @@ h3 {
     }
 } 
 
-#header-line {
-    border-top-style: dashed;
-    border-color: #306230;
-    border-width: 1px;
-    margin-bottom: 50px;
-
-}
-
+/* -------------------  Posts -------------- */
 .post-title {
     margin-bottom: 0px;
 }
@@ -155,15 +158,16 @@ h3 {
 
 }
 
-/*
-footer {
-    position: absolute;
-    bottom: 0;
-    padding-top: 10px;
-    padding-bottom: 10px;
-    width: 100%;
+/* -------------------  Footer -------------- */
+
+#footer-line {
+    border-top-style: dashed;
+    border-color: #306230;
+    border-width: 1px;
+    margin-top: 50px;
 }
-*/
+
+
   
 footer p {
     color: #306230;
