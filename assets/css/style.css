@@ -95,22 +95,12 @@ strong { color: #8bac0f }
   
 /* Style the links inside the navigation bar */
 .topnav a {
-    color: #fff; 
     display: block; 
-    font-family: 'Bowlby One SC', sans-serif; 
-    font-size: 1.5em;
     padding: 10px;  
     float: left;
-    text-align: center;
-    text-decoration: none;
+    text-align: center;    
 }
 
-/* Change the color of links on hover */
-.topnav a:hover {
-    background-color: #6d6d6d;
-    color: #fff;
-    text-decoration: none;
-}
 
 /* Hide the link that should open and close the topnav on small screens */
 .topnav .icon {
@@ -123,6 +113,7 @@ strong { color: #8bac0f }
     .topnav a.icon {
         float: right;
         display: block;
+        text-decoration: none;
     }
 }
   
@@ -133,6 +124,7 @@ strong { color: #8bac0f }
         position: absolute;
         right: 0;
         top: 0;
+        text-decoration: none;
     }
     .topnav.responsive a {
         float: none;
