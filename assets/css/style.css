@@ -159,7 +159,10 @@ strong { color: #8bac0f }
     margin-top: 50px;
 }
 
-
+footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
   
 footer p {
     color: #306230;
