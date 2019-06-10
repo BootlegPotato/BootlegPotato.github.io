@@ -1,4 +1,26 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-05-31T10:20:54-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BootlegPotato</title><entry><title type="html">May 31 Update</title><link href="http://localhost:4000/blog/2019/05/update.html" rel="alternate" type="text/html" title="May 31 Update" /><published>2019-05-31T00:00:00-05:00</published><updated>2019-05-31T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/05/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/05/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-10T08:42:11-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BootlegPotato</title><entry><title type="html">June 10 Update</title><link href="http://localhost:4000/blog/2019/06/update.html" rel="alternate" type="text/html" title="June 10 Update" /><published>2019-06-10T00:00:00-05:00</published><updated>2019-06-10T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/06/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/06/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bootleg Comix
+    &lt;ul&gt;
+      &lt;li&gt;The updated &lt;a href=&quot;http://www.bootlegcomix.com/&quot;&gt;BootlegComix.com&lt;/a&gt; is live. I’m kind of surprised that I got far enough alone to go live with it.&lt;/li&gt;
+      &lt;li&gt;Still need to rebuild the randomized site icon feature. Probably should remake and update the icon as well.&lt;/li&gt;
+      &lt;li&gt;Gallery titles need to be updated to H2 and resized at the md breakpoint (probably).&lt;/li&gt;
+      &lt;li&gt;Need to make better gallery icons/cover images.&lt;/li&gt;
+      &lt;li&gt;Need to update Inktober and March of Robots galleries with character information (again).&lt;/li&gt;
+      &lt;li&gt;All sites (including AnxiousPotato.com) need pagination updated.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;BootlegPotato.GitHub.io Page (This page)
+    &lt;ul&gt;
+      &lt;li&gt;Need to update the About page because it still references the Minima Jekyll theme.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Card Game
+    &lt;ul&gt;
+      &lt;li&gt;The five way &lt;a href=&quot;https://en.wikipedia.org/wiki/Rock%E2%80%93paper%E2%80%93scissors&quot;&gt;Roshambo&lt;/a&gt; is clunkier than intended. I’m going to see if a traditional three way improves game flow. I’ll also consider just using a simple point system which would make card colors thematic rather than a mechanic.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update Bootleg Comix The updated BootlegComix.com is live. I’m kind of surprised that I got far enough alone to go live with it. Still need to rebuild the randomized site icon feature. Probably should remake and update the icon as well. Gallery titles need to be updated to H2 and resized at the md breakpoint (probably). Need to make better gallery icons/cover images. Need to update Inktober and March of Robots galleries with character information (again). All sites (including AnxiousPotato.com) need pagination updated. BootlegPotato.GitHub.io Page (This page) Need to update the About page because it still references the Minima Jekyll theme. Card Game The five way Roshambo is clunkier than intended. I’m going to see if a traditional three way improves game flow. I’ll also consider just using a simple point system which would make card colors thematic rather than a mechanic.</summary></entry><entry><title type="html">May 31 Update</title><link href="http://localhost:4000/blog/2019/05/update.html" rel="alternate" type="text/html" title="May 31 Update" /><published>2019-05-31T00:00:00-05:00</published><updated>2019-05-31T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/05/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/05/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Anxious Potato
     &lt;ul&gt;
