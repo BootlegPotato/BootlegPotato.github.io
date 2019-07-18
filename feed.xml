@@ -1,4 +1,32 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-06-20T20:43:13-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BootlegPotato</title><entry><title type="html">June 20 Update</title><link href="http://localhost:4000/blog/2019/06/update.html" rel="alternate" type="text/html" title="June 20 Update" /><published>2019-06-20T00:00:00-05:00</published><updated>2019-06-20T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/06/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/06/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-18T08:18:17-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BootlegPotato</title><entry><title type="html">July 18 Update</title><link href="http://localhost:4000/blog/2019/07/update.html" rel="alternate" type="text/html" title="July 18 Update" /><published>2019-07-18T00:00:00-05:00</published><updated>2019-07-18T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/07/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bootleg Comix
+    &lt;ul&gt;
+      &lt;li&gt;Working on adding project section that groups related art together. This might be an entirely manual process unlike the art gallery section where I use Jekyll to build a gallery at least once.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Card Game
+    &lt;ul&gt;
+      &lt;li&gt;I’ve made two version of the card frame/borders. One is for digital illustration and the other is for Post-It note drawings that hopefully leans into the fact that they are drawn on paper. I need to post those to &lt;a href=&quot;http://www.anxiouspotato.com/&quot;&gt;AnxiousPotato.com&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;I also made card icons that I should really post on &lt;a href=&quot;http://www.anxiouspotato.com/&quot;&gt;AnxiousPotato.com&lt;/a&gt; as well.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Anxious Potato
+    &lt;ul&gt;
+      &lt;li&gt;I did post two overviews of the art/drawing tools that carry around with me that was originally post on &lt;a href=&quot;https://www.pillowfort.social/BootlegPotato&quot;&gt;PillowFort.social&lt;/a&gt;. My tools have changed so I should do an update.
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.anxiouspotato.com/blog/art/2019/06/pens01.html&quot;&gt;Art Tools Part One&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.anxiouspotato.com/blog/art/2019/06/pens02.html&quot;&gt;Art Tools Part Two&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;GitHub Blog (This Site)
+    &lt;ul&gt;
+      &lt;li&gt;Just fixed the pagination while writing this post&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update Bootleg Comix Working on adding project section that groups related art together. This might be an entirely manual process unlike the art gallery section where I use Jekyll to build a gallery at least once. Card Game I’ve made two version of the card frame/borders. One is for digital illustration and the other is for Post-It note drawings that hopefully leans into the fact that they are drawn on paper. I need to post those to AnxiousPotato.com I also made card icons that I should really post on AnxiousPotato.com as well. Anxious Potato I did post two overviews of the art/drawing tools that carry around with me that was originally post on PillowFort.social. My tools have changed so I should do an update. Art Tools Part One Art Tools Part Two GitHub Blog (This Site) Just fixed the pagination while writing this post</summary></entry><entry><title type="html">June 20 Update</title><link href="http://localhost:4000/blog/2019/06/update.html" rel="alternate" type="text/html" title="June 20 Update" /><published>2019-06-20T00:00:00-05:00</published><updated>2019-06-20T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/06/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/06/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Cabinet of Blunder
     &lt;ul&gt;
