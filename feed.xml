@@ -1,4 +1,21 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-18T08:18:17-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BootlegPotato</title><entry><title type="html">July 18 Update</title><link href="http://localhost:4000/blog/2019/07/update.html" rel="alternate" type="text/html" title="July 18 Update" /><published>2019-07-18T00:00:00-05:00</published><updated>2019-07-18T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/07/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-21T12:15:29-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BootlegPotato</title><entry><title type="html">July 21 Update</title><link href="http://localhost:4000/blog/2019/07/update.html" rel="alternate" type="text/html" title="July 21 Update" /><published>2019-07-21T00:00:00-05:00</published><updated>2019-07-21T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/07/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bootleg Comix
+    &lt;ul&gt;
+      &lt;li&gt;Uploaded a bunch of new Post-It Note drawings to the &lt;a href=&quot;https://www.bootlegcomix.com/gallery/mug/&quot;&gt;Mugshots&lt;/a&gt; gallery.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Anxious Potato
+    &lt;ul&gt;
+      &lt;li&gt;Back posted a few posts to &lt;a href=&quot;http://www.anxiouspotato.com/&quot;&gt;AnxiousPotato.com&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bootleg Potato
+    &lt;ul&gt;
+      &lt;li&gt;Trying to focus more on the blog so I updated &lt;a href=&quot;https://www.bootlegpotato.com/&quot;&gt;@BootlegPotato&lt;/a&gt; so that the Bootleg Comix and Anxious Potato cards/buttons are swapped.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update Bootleg Comix Uploaded a bunch of new Post-It Note drawings to the Mugshots gallery. Anxious Potato Back posted a few posts to AnxiousPotato.com Bootleg Potato Trying to focus more on the blog so I updated @BootlegPotato so that the Bootleg Comix and Anxious Potato cards/buttons are swapped.</summary></entry><entry><title type="html">July 18 Update</title><link href="http://localhost:4000/blog/2019/07/update.html" rel="alternate" type="text/html" title="July 18 Update" /><published>2019-07-18T00:00:00-05:00</published><updated>2019-07-18T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/07/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Bootleg Comix
     &lt;ul&gt;
@@ -160,12 +177,4 @@
       &lt;li&gt;&lt;a href=&quot;https://www.gbstudio.dev/&quot;&gt;GB Studio&lt;/a&gt; looks interesting.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update BootlegPotato.GitHub.io Page (This page) Implemented jekyll-paginate-v2 and I have no idea if it works on GitHub Pages. (spoiler it doesn’t) Will need to figure out how to do multiple category blogs for future projects. Untitled Mini Game Collection GB Studio looks interesting.</summary></entry><entry><title type="html">Its Alive!</title><link href="http://localhost:4000/blog/2019/04/its-alive.html" rel="alternate" type="text/html" title="Its Alive!" /><published>2019-04-07T00:00:00-05:00</published><updated>2019-04-07T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/04/its-alive</id><content type="html" xml:base="http://localhost:4000/blog/2019/04/its-alive.html">&lt;h3 id=&quot;current-projects&quot;&gt;Current projects&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Working on turning this GitHub Pages design into a Jekyll theme.
-    &lt;ul&gt;
-      &lt;li&gt;Still need to work out the pagination.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Cleaning up a repo of various mini game projects for public release.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Current projects Working on turning this GitHub Pages design into a Jekyll theme. Still need to work out the pagination. Cleaning up a repo of various mini game projects for public release.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update BootlegPotato.GitHub.io Page (This page) Implemented jekyll-paginate-v2 and I have no idea if it works on GitHub Pages. (spoiler it doesn’t) Will need to figure out how to do multiple category blogs for future projects. Untitled Mini Game Collection GB Studio looks interesting.</summary></entry></feed>
