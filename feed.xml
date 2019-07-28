@@ -1,10 +1,36 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-21T15:47:13-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BootlegPotato</title><entry><title type="html">July 21 Update</title><link href="http://localhost:4000/blog/2019/07/update.html" rel="alternate" type="text/html" title="July 21 Update" /><published>2019-07-21T00:00:00-05:00</published><updated>2019-07-21T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/07/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-27T22:41:46-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BootlegPotato</title><entry><title type="html">July 27 Update</title><link href="http://localhost:4000/blog/2019/07/update.html" rel="alternate" type="text/html" title="July 27 Update" /><published>2019-07-27T00:00:00-05:00</published><updated>2019-07-27T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/07/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;Bootleg Comix
+  &lt;li&gt;Super Mario Maker 2
     &lt;ul&gt;
-      &lt;li&gt;Uploaded a bunch of new Post-It Note drawings to the &lt;a href=&quot;https://www.bootlegcomix.com/gallery/mug/&quot;&gt;Mugshots&lt;/a&gt; gallery.&lt;/li&gt;
+      &lt;li&gt;Yes I made a few levels and I have to share them somewhere.&lt;/li&gt;
+      &lt;li&gt;Goomba Water-Vator: FSD-6FS-RLF&lt;/li&gt;
+      &lt;li&gt;Goomba Lava-ator: MFR-9Q3-1PF&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
+  &lt;li&gt;Bookleg Comix
+    &lt;ul&gt;
+      &lt;li&gt;Reworked the comic strip system so that all comic strips appear in the main index and have their own individual indices.&lt;/li&gt;
+      &lt;li&gt;Removed the sticky note gallery.&lt;/li&gt;
+      &lt;li&gt;Added the first &lt;a href=&quot;http://www.bootlegcomix.com/comics/pnb/&quot;&gt;Poe and Birdie&lt;/a&gt; comic.&lt;/li&gt;
+      &lt;li&gt;Added pagination to all the indices.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Anxious Potato
+    &lt;ul&gt;
+      &lt;li&gt;Fixed the pagination and catagories pagination.&lt;/li&gt;
+      &lt;li&gt;Rescanned almost all of the sticky note art and started posting it here.&lt;/li&gt;
+      &lt;li&gt;reworked the catagories to be Art, Comics, Projects, and Reviews. A sticky note section to follow.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Bootleg Potato
+    &lt;ul&gt;
+      &lt;li&gt;Removed the Carinate of Blunder link. Not sure what I’m going to do with this yet.&lt;/li&gt;
+      &lt;li&gt;Removed the Deviant Art link. Not sure if I’m going to continue to use the site after its redesign.&lt;/li&gt;
+      &lt;li&gt;Added the Instagram link. I hate myself for having it.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update Super Mario Maker 2 Yes I made a few levels and I have to share them somewhere. Goomba Water-Vator: FSD-6FS-RLF Goomba Lava-ator: MFR-9Q3-1PF Bookleg Comix Reworked the comic strip system so that all comic strips appear in the main index and have their own individual indices. Removed the sticky note gallery. Added the first Poe and Birdie comic. Added pagination to all the indices. Anxious Potato Fixed the pagination and catagories pagination. Rescanned almost all of the sticky note art and started posting it here. reworked the catagories to be Art, Comics, Projects, and Reviews. A sticky note section to follow. Bootleg Potato Removed the Carinate of Blunder link. Not sure what I’m going to do with this yet. Removed the Deviant Art link. Not sure if I’m going to continue to use the site after its redesign. Added the Instagram link. I hate myself for having it.</summary></entry><entry><title type="html">July 21 Update</title><link href="http://localhost:4000/blog/2019/07/update.html" rel="alternate" type="text/html" title="July 21 Update" /><published>2019-07-21T00:00:00-05:00</published><updated>2019-07-21T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/07/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+&lt;ul&gt;
   &lt;li&gt;Anxious Potato
     &lt;ul&gt;
       &lt;li&gt;Back posted a few posts to &lt;a href=&quot;http://www.anxiouspotato.com/&quot;&gt;AnxiousPotato.com&lt;/a&gt;.&lt;/li&gt;
@@ -16,7 +42,7 @@
       &lt;li&gt;Trying to focus more on the blog so I updated &lt;a href=&quot;https://www.bootlegpotato.com/&quot;&gt;@BootlegPotato&lt;/a&gt; so that the Bootleg Comix and Anxious Potato cards/buttons are swapped.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update Bootleg Comix Uploaded a bunch of new Post-It Note drawings to the Mugshots gallery. Anxious Potato Back posted a few posts to AnxiousPotato.com. Fixed pagination for the primary blog. Just found out that it is broke for any of the filtered blogs. Bootleg Potato Trying to focus more on the blog so I updated @BootlegPotato so that the Bootleg Comix and Anxious Potato cards/buttons are swapped.</summary></entry><entry><title type="html">July 18 Update</title><link href="http://localhost:4000/blog/2019/07/update.html" rel="alternate" type="text/html" title="July 18 Update" /><published>2019-07-18T00:00:00-05:00</published><updated>2019-07-18T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/07/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update Anxious Potato Back posted a few posts to AnxiousPotato.com. Fixed pagination for the primary blog. Just found out that it is broke for any of the filtered blogs. Bootleg Potato Trying to focus more on the blog so I updated @BootlegPotato so that the Bootleg Comix and Anxious Potato cards/buttons are swapped.</summary></entry><entry><title type="html">July 18 Update</title><link href="http://localhost:4000/blog/2019/07/update.html" rel="alternate" type="text/html" title="July 18 Update" /><published>2019-07-18T00:00:00-05:00</published><updated>2019-07-18T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/07/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Bootleg Comix
     &lt;ul&gt;
@@ -165,17 +191,4 @@
       &lt;li&gt;&lt;strong&gt;I Got The Dumbs&lt;/strong&gt;: I’m not very good at setting the date front matter.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update BootlegPotato.GitHub.io Page (This page) jekyll-paginate-v2 doesn’t work in GitHub Pages. I read the warning and wanted to see for my self. The solution is to publish static output pages directly to GitHub. Turns out that was a recommended solution stated somewhere else. Updated the blog pages to live in a blog directory. Updated some page styles. Bold is now light green and links are light green with an underline. The page header and footer are now separated from the page content by a dashed line going full width across the page. Add top nav with a links to GitHub profile and @BootlegPotato hub site. New Item: Update title in 404 page to link back to index. I Got The Dumbs: I’m not very good at setting the date front matter.</summary></entry><entry><title type="html">April 22 Update</title><link href="http://localhost:4000/blog/2019/04/update.html" rel="alternate" type="text/html" title="April 22 Update" /><published>2019-04-22T00:00:00-05:00</published><updated>2019-04-22T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/04/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/04/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;BootlegPotato.GitHub.io Page (This page)
-    &lt;ul&gt;
-      &lt;li&gt;Implemented jekyll-paginate-v2 and I have no idea if it works on GitHub Pages. (spoiler it doesn’t)&lt;/li&gt;
-      &lt;li&gt;Will need to figure out how to do multiple category blogs for future projects.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;Untitled Mini Game Collection
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;https://www.gbstudio.dev/&quot;&gt;GB Studio&lt;/a&gt; looks interesting.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update BootlegPotato.GitHub.io Page (This page) Implemented jekyll-paginate-v2 and I have no idea if it works on GitHub Pages. (spoiler it doesn’t) Will need to figure out how to do multiple category blogs for future projects. Untitled Mini Game Collection GB Studio looks interesting.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update BootlegPotato.GitHub.io Page (This page) jekyll-paginate-v2 doesn’t work in GitHub Pages. I read the warning and wanted to see for my self. The solution is to publish static output pages directly to GitHub. Turns out that was a recommended solution stated somewhere else. Updated the blog pages to live in a blog directory. Updated some page styles. Bold is now light green and links are light green with an underline. The page header and footer are now separated from the page content by a dashed line going full width across the page. Add top nav with a links to GitHub profile and @BootlegPotato hub site. New Item: Update title in 404 page to link back to index. I Got The Dumbs: I’m not very good at setting the date front matter.</summary></entry></feed>
