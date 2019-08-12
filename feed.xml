@@ -1,4 +1,23 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-07-27T22:41:46-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BootlegPotato</title><entry><title type="html">July 27 Update</title><link href="http://localhost:4000/blog/2019/07/update.html" rel="alternate" type="text/html" title="July 27 Update" /><published>2019-07-27T00:00:00-05:00</published><updated>2019-07-27T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/07/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-08-12T18:12:09-05:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">BootlegPotato</title><entry><title type="html">August 12 Update</title><link href="http://localhost:4000/blog/2019/08/update.html" rel="alternate" type="text/html" title="August 12 Update" /><published>2019-08-12T00:00:00-05:00</published><updated>2019-08-12T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/08/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/08/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Bootleg Comix
+    &lt;ul&gt;
+      &lt;li&gt;I made the update to BootlegComix.com where all the images got moved to assest folder. This makes manually updating site a lot easier and the upload a lot lighter.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Arts and Stuff
+    &lt;ul&gt;
+      &lt;li&gt;I spent a weekend making an honest attempt at creating proper illustrations. The first of it can be seen on &lt;a href=&quot;https://www.anxiouspotato.com/blog/art/2019/08/Saturday.html&quot;&gt;AnxiousPotato.com&lt;/a&gt;.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update Bootleg Comix I made the update to BootlegComix.com where all the images got moved to assest folder. This makes manually updating site a lot easier and the upload a lot lighter. Arts and Stuff I spent a weekend making an honest attempt at creating proper illustrations. The first of it can be seen on AnxiousPotato.com.</summary></entry><entry><title type="html">August 4 Update</title><link href="http://localhost:4000/blog/2019/08/update.html" rel="alternate" type="text/html" title="August 4 Update" /><published>2019-08-04T00:00:00-05:00</published><updated>2019-08-04T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/08/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/08/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Anxious Potato
+    &lt;ul&gt;
+      &lt;li&gt;I made an update to AnxiousPotato.com that moved all images to a unified assets folder which should make the update FTP more manageable. I need to make this change for BootlegComix.com soon.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update Anxious Potato I made an update to AnxiousPotato.com that moved all images to a unified assets folder which should make the update FTP more manageable. I need to make this change for BootlegComix.com soon.</summary></entry><entry><title type="html">July 27 Update</title><link href="http://localhost:4000/blog/2019/07/update.html" rel="alternate" type="text/html" title="July 27 Update" /><published>2019-07-27T00:00:00-05:00</published><updated>2019-07-27T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/07/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/07/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
 &lt;ul&gt;
   &lt;li&gt;Super Mario Maker 2
     &lt;ul&gt;
@@ -166,29 +185,4 @@
       &lt;li&gt;I need to make a note and publish the mini game collection to GitHub.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update Hobby Blog The Hobby Blog getting spun out into its own site. The current plan is to host it as a subdomain of AnxiousPotato.com. In my head this freed me from trying to back post old content before going live. I’m currently working on the logo and styles. AnxiousPotato.com AnxiousPotato.com has been done but I don’t want to cut over until I migrate the art galleries to BootlegComix.com. The thing is that those galleries are hosted on DeviantArt or PillowFort. I just need to get over it. Card Game I started working on a simple card game that is effectively just vehicle for me to draw card sized illustrations. The central mechanic is a five way roshambo. Ace Delivery Collection I need to make a note and publish the mini game collection to GitHub.</summary></entry><entry><title type="html">May 6 Update</title><link href="http://localhost:4000/blog/2019/05/update.html" rel="alternate" type="text/html" title="May 6 Update" /><published>2019-05-06T00:00:00-05:00</published><updated>2019-05-06T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/05/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/05/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;BootlegPotato.GitHub.io Page (This page)
-    &lt;ul&gt;
-      &lt;li&gt;Blog is still up an running&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;AnxiousPotato.com Blog
-    &lt;ul&gt;
-      &lt;li&gt;Version 0.1 is effectively done. In this version there are three blogs: Project, Art, and Hobby. With the project and art blogs the being combined into the front facing blog and the hobby blog being isolated into its own section of the site.&lt;/li&gt;
-      &lt;li&gt;I’m currently back posting content to Hobby blog from my Instagram account and then I’ll be reviewing the old Blogger powered blog for any content worth back posting before I go live.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update BootlegPotato.GitHub.io Page (This page) Blog is still up an running AnxiousPotato.com Blog Version 0.1 is effectively done. In this version there are three blogs: Project, Art, and Hobby. With the project and art blogs the being combined into the front facing blog and the hobby blog being isolated into its own section of the site. I’m currently back posting content to Hobby blog from my Instagram account and then I’ll be reviewing the old Blogger powered blog for any content worth back posting before I go live.</summary></entry><entry><title type="html">April 23 Update</title><link href="http://localhost:4000/blog/2019/04/update.html" rel="alternate" type="text/html" title="April 23 Update" /><published>2019-04-23T00:00:00-05:00</published><updated>2019-04-23T00:00:00-05:00</updated><id>http://localhost:4000/blog/2019/04/update</id><content type="html" xml:base="http://localhost:4000/blog/2019/04/update.html">&lt;h3 id=&quot;project-update&quot;&gt;Project Update&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;BootlegPotato.GitHub.io Page (This page)
-    &lt;ul&gt;
-      &lt;li&gt;jekyll-paginate-v2 doesn’t work in GitHub Pages. I read the warning and wanted to see for my self. The solution is to publish static output pages directly to GitHub. Turns out that was a recommended solution stated somewhere else.&lt;/li&gt;
-      &lt;li&gt;Updated the blog pages to live in a blog directory.&lt;/li&gt;
-      &lt;li&gt;Updated some page styles. Bold is now light green and links are light green with an underline. The page header and footer are now separated from the page content by a dashed line going full width across the page.&lt;/li&gt;
-      &lt;li&gt;Add top nav with a links to GitHub profile and &lt;a href=&quot;https://www.bootlegpotato.com/&quot;&gt;@BootlegPotato&lt;/a&gt; hub site.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;New Item&lt;/strong&gt;: Update title in 404 page to link back to index.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;I Got The Dumbs&lt;/strong&gt;: I’m not very good at setting the date front matter.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update BootlegPotato.GitHub.io Page (This page) jekyll-paginate-v2 doesn’t work in GitHub Pages. I read the warning and wanted to see for my self. The solution is to publish static output pages directly to GitHub. Turns out that was a recommended solution stated somewhere else. Updated the blog pages to live in a blog directory. Updated some page styles. Bold is now light green and links are light green with an underline. The page header and footer are now separated from the page content by a dashed line going full width across the page. Add top nav with a links to GitHub profile and @BootlegPotato hub site. New Item: Update title in 404 page to link back to index. I Got The Dumbs: I’m not very good at setting the date front matter.</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>BootlegPotato</name></author><summary type="html">Project Update Hobby Blog The Hobby Blog getting spun out into its own site. The current plan is to host it as a subdomain of AnxiousPotato.com. In my head this freed me from trying to back post old content before going live. I’m currently working on the logo and styles. AnxiousPotato.com AnxiousPotato.com has been done but I don’t want to cut over until I migrate the art galleries to BootlegComix.com. The thing is that those galleries are hosted on DeviantArt or PillowFort. I just need to get over it. Card Game I started working on a simple card game that is effectively just vehicle for me to draw card sized illustrations. The central mechanic is a five way roshambo. Ace Delivery Collection I need to make a note and publish the mini game collection to GitHub.</summary></entry></feed>
